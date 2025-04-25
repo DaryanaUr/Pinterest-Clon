@@ -1,2 +1,2 @@
 # Pinterest-Clon
-Project created at Tecnolochicas PRO bootcamp simulating the principal page of Pinterest.
+The project was created at the Tecnolochicas PRO boot camp to simulate the Pinterest homepage.
